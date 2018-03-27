@@ -1,0 +1,10 @@
+[package]
+name = "rustfun"
+version = "0.1.0"
+authors = ["Martin Jirlow <martin.jirlow@gmail.com>"]
+
+[dependencies]
+gl = "*"
+glutin = "*"
+nalgebra = "*"
+time = "*"
